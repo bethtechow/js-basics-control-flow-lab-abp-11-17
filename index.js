@@ -13,7 +13,7 @@ function scuberGreetingForFeet(distance){
 function ternaryCheckCity(response){
   return response === "NYC" ? "Ok, sounds good." : "No go."
 }
-switch (switchOnCharmFromTip){
+switch switchOnCharmFromTip(tip)){
   case "generous":
   text = ""Thank you so much.";
 }
